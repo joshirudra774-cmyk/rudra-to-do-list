@@ -1,1 +1,0 @@
-# rudra-to-do-list
